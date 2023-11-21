@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Command to run on container start
-CMD ["streamlit", "run", "your_streamlit_script.py", "--server.port=8504"]
+CMD ["streamlit", "run", "app.py", "--server.port=8504"]
