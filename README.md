@@ -75,6 +75,11 @@ To install the project, follow these steps:
 - Monthly aggregated plot for understanding trends over 2021.
 - Batch prediction capability for forecasting the entire year of 2022.
 
+## Metrics used:
+
+- Rmse (Root Mean Square Error) - LSTM's and Linear regression was performing well.
+- MAE (Mean Absolute Error) - Linear Regression was working really well.
+
 ## Contributing
 
 We welcome contributions to improve the models or the app interface. Please feel free to fork the repository, make changes, and submit a pull request.
