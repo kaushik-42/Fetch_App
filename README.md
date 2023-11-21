@@ -80,6 +80,25 @@ To install the project, follow these steps:
 - Rmse (Root Mean Square Error) - LSTM's and Linear regression was performing well.
 - MAE (Mean Absolute Error) - Linear Regression was working really well.
 
+## Future Improvements
+
+Several enhancements can be made to this project to increase the accuracy of the predictions and the usability of the application:
+
+- **Improved LSTM Model**: With access to more computational resources, the LSTM model could be fine-tuned with a larger dataset, more epochs, and hyperparameter optimization to improve its forecasting ability.
+
+- **Deployment Service**: Developing a deployment pipeline using services like AWS, Google Cloud, or Azure for easy model retraining and automatic updates of the predictive model.
+
+- **Extended Modeling**: Dedicate additional time to experimenting with different modeling techniques, including hybrid models that combine the strengths of neural networks and traditional statistical models.
+
+- **Feature Engineering**: Investigate more complex features and external data sources that could influence receipt scanning behavior, such as marketing campaigns, seasonal effects, or user demographics.
+
+- **User Feedback Integration**: Implement a feedback loop in the application that allows users to provide data on the accuracy of the predictions, which can be used to further refine the models.
+
+## Acknowledgements
+
+I would like to extend my sincerest gratitude to Fetch Rewards for providing this incredible learning opportunity. This exercise has been instrumental in enhancing my understanding of machine learning workflows, from data preprocessing and modeling to deployment and user interface design. The experience has been both challenging and rewarding, offering a comprehensive platform to apply theoretical knowledge to a practical, real-world problem.
+
+
 ## Contributing
 
 We welcome contributions to improve the models or the app interface. Please feel free to fork the repository, make changes, and submit a pull request.
