@@ -71,6 +71,9 @@ To install the project, follow these steps:
 
 ## Running the .ipynb file:
 
+After cloning the above link, also please navigate to the "Fetch_ML.ipynb", where I did all the Pipeline way from Data Collection, pre-processing, feature engineering, Experimenting with various algorithms (The Fun part! :)), Training, Validation till Predictions(Batch Processing of all the results day by day). To reduce the complexity of the app, I have batch processed all the results from the Fetch_ML.ipynb notebook into a .csv file, and I have used that file by providing aggregations on the months data for providing the user requested month prediction. The output will be a csv file of all the 2022 predictions of all the data points!
+ 
+
 ## Features
 
 - Interactive Streamlit dashboard for data visualization for the Year 2021 if the shareholders want to view that before making 2022 predictions of a month.
