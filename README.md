@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+#### Fetch Use Case: At fetch, we are monitoring the number of the scanned receipts to our app on a daily base as one of our KPIs. From business standpoint, we sometimes need to predict the possible number of the scanned receipts for a given future month.
+
 This project is designed to predict the number of receipts that will be scanned by Fetch Rewards app users. The prediction is based on historical data from the year 2021 and uses machine learning models to estimate future counts.
 
 ![Fetch_Landing_Page_App](Images/Fetch_Main.png)
@@ -98,6 +100,7 @@ Several enhancements can be made to this project to increase the accuracy of the
 
 I would like to extend my sincerest gratitude to Fetch Rewards for providing this incredible learning opportunity. This exercise has been instrumental in enhancing my understanding of machine learning workflows, from data preprocessing and modeling to deployment and user interface design. The experience has been both challenging and rewarding, offering a comprehensive platform to apply theoretical knowledge to a practical, real-world problem.
 
+I would be grateful If I get an Interview opportunity with Fetch!
 
 ## Contributing
 
