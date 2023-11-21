@@ -5,7 +5,8 @@
 This project is designed to predict the number of receipts that will be scanned by Fetch Rewards app users. The prediction is based on historical data from the year 2021 and uses machine learning models to estimate future counts.
 
 ![Fetch_Landing_Page_App](Images/Fetch_Main.png)
-![Fetch_Landing_Page_App](Images/Fetch_2.png)
+![Fetch_Next Page](Images/Fetch_2.png)
+![Fetch_Next Page - 1](Images/Prediction_result.png)
 
 ## Models Used
 
