@@ -22,7 +22,7 @@ The model is designed to run batch predictions for the entire year of 2022. It u
 
 ## Running the App
 
-### With Docker
+### With Docker:
 
 1. Ensure you have Docker installed on your machine.
 2. Clone the repository and navigate to the project directory.
@@ -30,7 +30,7 @@ The model is designed to run batch predictions for the entire year of 2022. It u
 4. Run the Docker container: docker run -p 8501:8501 fetch-receipts-prediction
 5. Open your web browser and go to `http://localhost:8504` to view the app.
 
-### Without Docker
+### Without Docker:
 
 1. Ensure you have Python and the necessary packages installed.
 2. Clone the repository and navigate to the project directory.
