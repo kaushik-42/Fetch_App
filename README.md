@@ -85,6 +85,24 @@ After cloning the above link, also please navigate to the "Fetch_ML.ipynb", wher
 - Rmse (Root Mean Square Error) - LSTM's and Linear regression was performing well.
 - MAE (Mean Absolute Error) - Linear Regression was working really well.
 
+## Why Streamlit for creating applications for our ML Models?
+
+Streamlit was chosen as the primary tool for building the Fetch Rewards Scanned Receipts Prediction App due to its unique advantages in creating interactive data applications:
+
+- **Ease of Use**: Streamlit's straightforward and intuitive API makes it possible to turn data scripts into shareable web apps with minimal effort. This ease of use accelerates development from concept to deployment.
+
+- **Rapid Prototyping**: Streamlit enables rapid prototyping of data applications, allowing for quick iteration and immediate feedback on the functionality and design of the app.
+
+- **Interactivity**: Streamlit naturally supports interactivity without the need for complex callbacks or frontend development. This feature is crucial for engaging users and delivering dynamic visualizations and data-driven insights.
+
+- **Integration with Data Science Ecosystem**: Streamlit seamlessly integrates with major data science libraries like Pandas, NumPy, Matplotlib, and Seaborn, making it a perfect fit for projects that require robust data processing and visualization capabilities.
+
+- **Customizability**: While being simple to use for basic tasks, Streamlit also offers the flexibility to create more sophisticated applications with custom layouts, advanced features, and even integration with other systems.
+
+By leveraging Streamlit, this project effectively bridges the gap between data science and application development, providing an accessible and interactive platform for users to explore and understand the predictive models' results.
+
+
+
 ## Future Improvements
 
 Several enhancements can be made to this project to increase the accuracy of the predictions and the usability of the application:
@@ -98,6 +116,7 @@ Several enhancements can be made to this project to increase the accuracy of the
 - **Feature Engineering**: Investigate more complex features and external data sources that could influence receipt scanning behavior, such as marketing campaigns, seasonal effects, or user demographics.
 
 - **User Feedback Integration**: Implement a feedback loop in the application that allows users to provide data on the accuracy of the predictions, which can be used to further refine the models.
+
 
 ## Acknowledgements
 
